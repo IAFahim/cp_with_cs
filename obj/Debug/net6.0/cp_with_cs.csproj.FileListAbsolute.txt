@@ -1,0 +1,15 @@
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\bin\Debug\net6.0\cp_with_cs.exe
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\bin\Debug\net6.0\cp_with_cs.deps.json
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\bin\Debug\net6.0\cp_with_cs.runtimeconfig.json
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\bin\Debug\net6.0\cp_with_cs.dll
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\bin\Debug\net6.0\cp_with_cs.pdb
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\cp_with_cs.csproj.AssemblyReference.cache
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\cp_with_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\cp_with_cs.AssemblyInfoInputs.cache
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\cp_with_cs.AssemblyInfo.cs
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\cp_with_cs.csproj.CoreCompileInputs.cache
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\cp_with_cs.dll
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\refint\cp_with_cs.dll
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\cp_with_cs.pdb
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\cp_with_cs.genruntimeconfig.cache
+C:\Users\Fahim\RiderProjects\cp_with_cs\cp_with_cs\obj\Debug\net6.0\ref\cp_with_cs.dll
